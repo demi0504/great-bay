@@ -67,4 +67,6 @@ function postAuction() {
 function bidAuction() {
   // query the database for all items being auctioned
 ​   
+  //prompt for what they want to bid on
+  
 }
